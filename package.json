@@ -1,0 +1,22 @@
+{
+  "name": "bloqueante.js",
+  "version": "1.0.0",
+  "description": "prueba del modo bloqueante en node js",
+  "main": "bloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArathArt/bloqueante.git"
+  },
+  "keywords": [
+    "bloqueante"
+  ],
+  "author": "arath baca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArathArt/bloqueante/issues"
+  },
+  "homepage": "https://github.com/ArathArt/bloqueante#readme"
+}
